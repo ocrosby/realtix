@@ -1,0 +1,25 @@
+{
+  "name": "realtix",
+  "version": "1.0.0",
+  "description": "A program to scrape real estate information.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "something"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocrosby/realtix.git"
+  },
+  "keywords": [
+    "Realty"
+  ],
+  "author": "Omar Crosby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ocrosby/realtix/issues"
+  },
+  "homepage": "https://github.com/ocrosby/realtix#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
